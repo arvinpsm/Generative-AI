@@ -1,2 +1,2 @@
 # TNSDC-Generative-AI
-Text Detection and Extraction from image using OpenCV
+Text Detection from image using OpenCV
